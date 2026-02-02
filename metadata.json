@@ -1,0 +1,5 @@
+{
+  "name": "Micro Chess",
+  "description": "A lightweight, AI-generated chess platform featuring Over-the-Board play, Kindle compatibility mode, and responsive design.",
+  "requestFramePermissions": []
+}
